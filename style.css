@@ -1,9 +1,11 @@
 body {
-  font-family: sans-serif;
   background-color: #eb6e3d;
+  font-family: sans-serif;
   text-align: center;
   padding: 50px;
+  margin: 0;
 }
+
 
 h1 {
   color: #fcaf83;
