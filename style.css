@@ -6,19 +6,18 @@ body {
   margin: 0;
 }
 
-
 h1 {
   color: #fcaf83;
 }
 
 p {
-    color:rgb(253, 224, 189);
+    color: rgb(253, 224, 189);
 }
 
 footer {
   margin-top: 100px;
   padding: 20px;
-  background-color: #d35424; /* a slightly darker shade */
+  background-color: #d35424;
   color: white;
   font-size: 14px;
 }
@@ -30,4 +29,13 @@ footer a {
 
 footer a:hover {
   text-decoration: underline;
+}
+
+button {
+  height: 30px;
+  width: 80px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
